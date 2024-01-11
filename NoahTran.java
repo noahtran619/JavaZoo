@@ -5,10 +5,10 @@
  * @author Mr. Jaffe
  * @version 1.0 2017-07-14
  */
-public class RogerJaffe extends Animal
+public class NoahTran extends Animal
 {
-  public RogerJaffe() {
-    super("Roger Jaffe", "red", 0);
+  public NoahTran() {
+    super("Noah Tran", "red", 0);
   }
   
   public String getType() {
